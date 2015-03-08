@@ -18,7 +18,7 @@ public class Main {
     public static void main(String [] args){
 
         String passphrase = "The quick brown fox jumped over the lazy brown dog";
-        String plaintext = "Luntarn lets do this! :)";
+        String plaintext = "Luntarn - the king! :)";
         byte [] ciphertext;
         String recoveredPlaintext = plaintext;
         try {
